@@ -12,7 +12,7 @@ your first 10 original games might still suck for other reasons but at least you
 
 |Genre| Name | description| perceived dificulty (aka before trying) | actual dificulty (after executing)|
 |:---|:---:|:---:|:---:|:---:|
-|Incremental Game| <Thing> clicker| if you have played cookie clicker or decisionproblem you  know this genre already go and do your own|
+|Incremental Game| \<Thing\> clicker| if you have played cookie clicker or decisionproblem you  know this genre already go and do your own|
 
 
 
