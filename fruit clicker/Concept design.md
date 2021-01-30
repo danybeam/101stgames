@@ -8,5 +8,16 @@ Fruit clicker is a game where you are the farmer of the _Alltree_ this is the fi
 * Discovery
 * Wonder
 
+## Gameplay loop
+1. Harvest fruit
+2. process fruit to get $$ or _thing that unlocks more fruits (name TBD)_
+3. upgrade your tree
+
 ## Verbs
-Click
+* Harvest
+* Sell
+* Unlock fruit
+* Something to break the flow? (non verb brainstorm)
+    * surprise spike in "demand"
+    * research on fruit allow to bear more of that fruit
+    * possibility to lose one kind of fruit until you get the right seed again
